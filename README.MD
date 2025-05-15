@@ -1,14 +1,14 @@
 # ORM Factory — Issue Tracker
 
-Welcome to the official issue tracker for [ORM Factory](https://ormfactory.com) — a visual model-first database design tool.
+Welcome to the official issue tracker for [OrmFactory](https://ormfactory.com) — a visual model-first database design tool.
 
-This repository is used to report **bugs**, share **feature requests**, and ask **questions** about ORM Factory.
+This repository is used to report **bugs**, share **feature requests**, and ask **questions** about OrmFactory.
 
 ---
 
-## About ORM Factory
+## About OrmFactory
 
-**ORM Factory** is a desktop application for designing database models visually, with support for generating ORM code, migration scripts, and SQL across multiple platforms and languages.
+**OrmFactory** is a desktop application for designing database models visually, with support for generating ORM code, migration scripts, and SQL across multiple platforms and languages.
 
 Key features:
 
@@ -40,11 +40,11 @@ Please use [Issues](https://github.com/OrmFactory/0F/issues) to:
    - Steps to reproduce (for bugs)
    - Expected and actual behavior
    - Screenshots or logs if available
-   - Your OS and ORM Factory version
+   - Your OS and OrmFactory version
 
 ---
 
 ## Feedback & Contributions
 
 This repo is **issue-only**. 
-Thank you for helping improve ORM Factory!
+Thank you for helping improve OrmFactory!
